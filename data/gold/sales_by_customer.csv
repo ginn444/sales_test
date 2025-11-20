@@ -1,0 +1,401 @@
+CustomerId,CustomerName,City,CountryName,Region,TotalQuantity,DistinctOrders
+71,Nicholas Craig,Zwettl-Niederösterreich,Papua New Guinea,OCEANIA,1056,42
+35,Jameson Glover,Belgaum,N. Mariana Islands,OCEANIA,970,38
+396,Gabriel Cabrera,Labico,Burundi,SUB-SAHARAN AFRICA,930,42
+236,Allistair Warner,Marcq-en-Baroeul,Kenya,SUB-SAHARAN AFRICA,929,43
+291,Demetrius Heath,Trochu,Italy,WESTERN EUROPE,928,44
+181,Peter Diaz,Camrose,Mexico,LATIN AMER. & CARIB,910,38
+274,Timothy Medina,Essex,Saint Helena,SUB-SAHARAN AFRICA,890,37
+362,Cadman Whitley,Ambresin,San Marino,WESTERN EUROPE,889,41
+334,Joshua Kinney,Poggio Berni,Yemen,NEAR EAST,878,36
+249,Herrod Brennan,Jasper,Jersey,WESTERN EUROPE,834,35
+7,Cain Schroeder,Göppingen,South Africa,SUB-SAHARAN AFRICA,832,37
+184,Sylvester Gonzalez,Montaldo Bormida,"Bahamas, The",LATIN AMER. & CARIB,829,37
+397,Upton Avila,Fort Laird,Solomon Islands,OCEANIA,829,42
+256,Palmer David,Lillois-Witterz_e,China,ASIA (EX. NEAR EAST),823,34
+158,Marshall Hunt,Seosan,Jordan,NEAR EAST,817,31
+378,Grant Lott,Nives,Belarus,C.W. OF IND. STATES,815,37
+36,Eric Dillard,Sprimont,Palau,OCEANIA,806,29
+112,Bruno Cardenas,Penrith,United States,NORTHERN AMERICA,804,36
+125,Vladimir Hopper,Bursa,Taiwan,ASIA (EX. NEAR EAST),800,28
+358,Amery Hanson,Attert,Kenya,SUB-SAHARAN AFRICA,792,37
+296,Donovan Singleton,Midway,Sao Tome & Principe,SUB-SAHARAN AFRICA,791,36
+330,Seth Petty,Yorkton,Equatorial Guinea,SUB-SAHARAN AFRICA,782,34
+215,Asher Mooney,Monte San Pietrangeli,Austria,WESTERN EUROPE,781,36
+135,Flynn Blevins,Khammam,Norway,WESTERN EUROPE,778,32
+19,Zachery Kerr,Kufstein,Armenia,C.W. OF IND. STATES,775,35
+313,Ali Jackson,Austin,Venezuela,LATIN AMER. & CARIB,753,32
+106,Paul Kent,Maasmechelen,Saint Vincent and the Grenadines,LATIN AMER. & CARIB,753,34
+15,Alden Hawkins,Buckingham,Guadeloupe,LATIN AMER. & CARIB,752,39
+155,Ivor Frost,Cama�ari,Equatorial Guinea,SUB-SAHARAN AFRICA,752,37
+162,Allen Doyle,Chestermere,Belgium,WESTERN EUROPE,750,28
+233,Rafael Wyatt,Bonn,Saint Kitts & Nevis,LATIN AMER. & CARIB,748,39
+115,Colorado Lyons,Buggenhout,Benin,SUB-SAHARAN AFRICA,746,35
+261,Wang Keller,Rocca Santo Stefano,Jersey,WESTERN EUROPE,735,30
+243,Quentin Harvey,Maip�,"Congo, Repub. of the",SUB-SAHARAN AFRICA,735,31
+368,Fuller Ball,Pocheon,Netherlands,WESTERN EUROPE,734,35
+108,Donovan Figueroa,Woodlands County,Palau,OCEANIA,730,32
+1,Jason Orr,Kilsyth,Honduras,LATIN AMER. & CARIB,724,31
+324,Adrian Kerr,Sars-la-Buissi�re,Bulgaria,EASTERN EUROPE,723,27
+319,Reese Richards,Taldom,Georgia,C.W. OF IND. STATES,722,29
+42,Nathan Richards,Bostaniçi,Belize,LATIN AMER. & CARIB,721,36
+230,Lucas Collins,Brussegem,Trinidad & Tobago,LATIN AMER. & CARIB,719,33
+101,Clinton Roberts,Fabro,Sierra Leone,SUB-SAHARAN AFRICA,718,30
+97,Caleb Rowland,Oromocto,Belgium,WESTERN EUROPE,716,31
+51,Salvador Gregory,Mold,Haiti,LATIN AMER. & CARIB,716,31
+343,Merrill Wooten,Queenstown,Suriname,LATIN AMER. & CARIB,709,24
+298,Lucius Lawson,Mildura,Malta,WESTERN EUROPE,708,30
+287,Kaseem Gibbs,Valleyview,Guatemala,LATIN AMER. & CARIB,700,32
+47,Jelani Mccormick,Skövde,Tunisia,NORTHERN AFRICA,700,32
+284,Caldwell Castillo,Fontanellato,Lebanon,NEAR EAST,698,31
+111,Aladdin Vega,Fresno,Saint Lucia,LATIN AMER. & CARIB,685,30
+18,Kieran Guerrero,Kirkland,Niger,SUB-SAHARAN AFRICA,685,32
+265,Emmanuel Bowers,Sacramento,Serbia,EASTERN EUROPE,684,33
+380,Omar Maldonado,Braives,Belgium,WESTERN EUROPE,683,30
+166,Ishmael Torres,Pietraroja,Germany,WESTERN EUROPE,682,25
+318,Jameson Rowe,Nemi,Libya,NORTHERN AFRICA,681,34
+52,Nero Ferguson,Berceto,Panama,LATIN AMER. & CARIB,678,26
+247,Josiah Head,Pak Pattan,Suriname,LATIN AMER. & CARIB,678,34
+314,Jelani Cooke,Schwedt,Anguilla,LATIN AMER. & CARIB,678,28
+189,Harper Raymond,Pietragalla,Macau,ASIA (EX. NEAR EAST),677,31
+267,Aaron Barry,Masullas,"Korea, South",ASIA (EX. NEAR EAST),673,27
+13,Palmer Ashley,Antibes,Chile,LATIN AMER. & CARIB,672,34
+132,Reese Macdonald,Sloten,Azerbaijan,C.W. OF IND. STATES,671,32
+160,Arden Watson,Lansing,New Caledonia,OCEANIA,670,31
+246,Ciaran Oneill,Dolgellau,Madagascar,SUB-SAHARAN AFRICA,670,34
+139,Josiah Mayer,Aosta,Belarus,C.W. OF IND. STATES,669,28
+8,Cruz Gill,Morinville,Sweden,WESTERN EUROPE,667,31
+203,Ferris Hardy,Westmalle,Yemen,NEAR EAST,664,31
+295,Slade Myers,Machelen,Madagascar,SUB-SAHARAN AFRICA,664,28
+285,Hiram Acevedo,Naninne,Venezuela,LATIN AMER. & CARIB,663,30
+308,Tanek Higgins,Trollh�ttan,New Zealand,OCEANIA,663,26
+60,Aristotle Gross,Berbroek,Slovakia,EASTERN EUROPE,662,35
+50,Jeremy Rowland,San Rafael,Canada,NORTHERN AMERICA,658,30
+321,Oren Zamora,Zaria,Nicaragua,LATIN AMER. & CARIB,658,28
+370,Keane Rich,Barrie,Kyrgyzstan,C.W. OF IND. STATES,652,25
+103,Malachi Phillips,Neuss,Spain,WESTERN EUROPE,652,34
+323,Tyler Odonnell,Wieze,Burkina Faso,SUB-SAHARAN AFRICA,651,31
+128,Warren Mcgee,R�o Bueno,Anguilla,LATIN AMER. & CARIB,651,23
+21,Mohammad Kane,Raigarh,Uruguay,LATIN AMER. & CARIB,651,26
+207,Caesar Gibson,Oldenburg,Morocco,NORTHERN AFRICA,650,30
+187,Emmanuel Sosa,Skardu,China,ASIA (EX. NEAR EAST),649,28
+117,August Ramirez,Pessac,Saint Vincent and the Grenadines,LATIN AMER. & CARIB,649,28
+351,Burton Key,Aubagne,Papua New Guinea,OCEANIA,648,24
+305,Hu Pitts,Birmingham,Nauru,OCEANIA,647,25
+81,Chancellor Bradford,Vandoeuvre-lès-Nancy,Malaysia,ASIA (EX. NEAR EAST),647,40
+152,Cooper Rowland,Pettoranello del Molise,Ukraine,C.W. OF IND. STATES,645,29
+140,Branden Mullen,Trento,Philippines,ASIA (EX. NEAR EAST),644,24
+242,Herrod Moore,Gentbrugge,United Kingdom,WESTERN EUROPE,644,28
+269,Ezra Savage,Santa Marina,Maldives,ASIA (EX. NEAR EAST),644,31
+366,Reece Molina,Redlands,South Africa,SUB-SAHARAN AFRICA,642,22
+271,Devin Chen,Seevetal,Nepal,ASIA (EX. NEAR EAST),642,29
+332,Kamal Blevins,Meerdonk,Cayman Islands,LATIN AMER. & CARIB,642,34
+391,Kyle Gillespie,Yurzhnouralsk,Nepal,ASIA (EX. NEAR EAST),641,28
+172,Rudyard Gay,Sombreffe,Libya,NORTHERN AFRICA,641,28
+46,Kelly Lott,Akşehir,Somalia,SUB-SAHARAN AFRICA,640,33
+123,Michael Harrington,Edmundston,Djibouti,SUB-SAHARAN AFRICA,640,28
+317,Joel Stone,Henderson,Tanzania,SUB-SAHARAN AFRICA,637,29
+260,Erich Noble,Nizhny,Tonga,OCEANIA,637,33
+119,Stewart Cain,Maria,Azerbaijan,C.W. OF IND. STATES,637,29
+202,Cadman Weeks,Karachev,British Virgin Is.,LATIN AMER. & CARIB,635,27
+340,Leo Moran,Owerri,Dominica,LATIN AMER. & CARIB,633,31
+262,Rafael Beasley,Santu Lussurgiu,Reunion,SUB-SAHARAN AFRICA,633,30
+116,Chandler Perkins,Pincher Creek,Georgia,C.W. OF IND. STATES,633,27
+192,Chandler Tyson,Arequipa,Iraq,NEAR EAST,633,30
+131,Neville Ferguson,Sibi,Wallis and Futuna,OCEANIA,632,30
+212,Leonard Lindsey,Balfour,Ireland,WESTERN EUROPE,631,31
+54,Myles Spence,Rochester,Solomon Islands,OCEANIA,631,24
+386,Ferdinand Campbell,Velsk,Kazakhstan,C.W. OF IND. STATES,628,22
+186,Elijah Jacobson,C�rdoba,Malawi,SUB-SAHARAN AFRICA,628,30
+339,Ignatius Hanson,Bientina,Senegal,SUB-SAHARAN AFRICA,626,27
+45,Peter Hubbard,Schore,Bolivia,LATIN AMER. & CARIB,626,31
+188,Gary Ruiz,Armungia,"Micronesia, Fed. St.",OCEANIA,626,27
+77,Hilel Dodson,Serik,Spain,WESTERN EUROPE,626,28
+107,Jerry Hester,Santa Mar�a,China,ASIA (EX. NEAR EAST),625,31
+179,Ryder Tyson,Roselies,Sri Lanka,ASIA (EX. NEAR EAST),622,27
+379,Chester Foster,Lambayeque,Guernsey,WESTERN EUROPE,622,27
+109,Slade Burton,Iqaluit,Sweden,WESTERN EUROPE,622,33
+226,Randall Valentine,Martello/Martell,China,ASIA (EX. NEAR EAST),620,29
+239,Lucius Harvey,Butte,Papua New Guinea,OCEANIA,619,31
+31,Martin Weiss,Norfolk County,Uzbekistan,C.W. OF IND. STATES,619,26
+201,Lucian Webster,Vieste,Norway,WESTERN EUROPE,614,24
+93,Jin Henry,Saint-Herblain,Antigua & Barbuda,LATIN AMER. & CARIB,614,27
+238,Cain Shaffer,Strombeek-Bever,Uzbekistan,C.W. OF IND. STATES,613,26
+240,Kaseem Osborn,Bargagli,Hungary,EASTERN EUROPE,612,31
+244,Amir Gould,Zhukovka,Ecuador,LATIN AMER. & CARIB,609,28
+259,Nathaniel Sampson,Camet�,Saint Kitts & Nevis,LATIN AMER. & CARIB,609,29
+389,Eagan Carey,Palakkad,Saudi Arabia,NEAR EAST,608,27
+382,Salvador Greene,B�ziers,Panama,LATIN AMER. & CARIB,604,29
+342,Ryan Davenport,Cambridge,Norway,WESTERN EUROPE,603,30
+195,Geoffrey Conley,Sfruz,Saint Helena,SUB-SAHARAN AFRICA,601,34
+89,Brendan Reed,Snellegem,Djibouti,SUB-SAHARAN AFRICA,600,31
+154,Nigel Case,Baasrode,Chile,LATIN AMER. & CARIB,599,28
+232,Brady Pierce,Coihaique,Mexico,LATIN AMER. & CARIB,599,27
+83,Nathaniel Strong,Lago Ranco,Honduras,LATIN AMER. & CARIB,598,30
+134,Rooney Anderson,Kitchener,Cayman Islands,LATIN AMER. & CARIB,598,27
+196,Cade Preston,Uitbergen,Central African Rep.,SUB-SAHARAN AFRICA,598,31
+392,Wade Waters,Salamanca,Panama,LATIN AMER. & CARIB,597,21
+275,Rudyard Reynolds,Oliver,Ghana,SUB-SAHARAN AFRICA,597,31
+373,Hasad Burris,Mianwali,Sweden,WESTERN EUROPE,597,31
+198,Coby Mays,Adoni,Bosnia & Herzegovina,EASTERN EUROPE,596,27
+219,Samuel Harding,Fortaleza,Kyrgyzstan,C.W. OF IND. STATES,595,30
+398,Dorian Farmer,H_villers,Pakistan,ASIA (EX. NEAR EAST),594,27
+176,Flynn Briggs,Oldenburg,French Guiana,LATIN AMER. & CARIB,594,26
+124,Hilel Sparks,Gavorrano,Western Sahara,NORTHERN AFRICA,593,28
+70,Kieran Perez,Timaru,Taiwan,ASIA (EX. NEAR EAST),592,26
+346,Nasim Collins,Minto,Seychelles,SUB-SAHARAN AFRICA,592,28
+288,Prescott Faulkner,Montalto Uffugo,Chad,SUB-SAHARAN AFRICA,591,29
+204,Vernon Clayton,Ruthin,Namibia,SUB-SAHARAN AFRICA,591,30
+30,Griffith Avila,Onega,Guinea-Bissau,SUB-SAHARAN AFRICA,590,29
+27,Levi Nolan,Mosquera,"Korea, North",ASIA (EX. NEAR EAST),590,29
+341,Donovan Salazar,San Donato di Ninea,Central African Rep.,SUB-SAHARAN AFRICA,589,26
+311,Elvis Bush,Llanwrtwd Wells,Hungary,EASTERN EUROPE,587,24
+3,Kennan Head,Bothey,Jordan,NEAR EAST,586,32
+69,Phillip Charles,Marbella,Czech Republic,EASTERN EUROPE,584,30
+375,Bernard Petty,Lisciano Niccone,Saint Helena,SUB-SAHARAN AFRICA,583,22
+254,Aristotle Coffey,Cassaro,Cape Verde,SUB-SAHARAN AFRICA,581,31
+193,Neil Pruitt,Termeno sulla strada del vino/Tramin an der Weinstrasse,Indonesia,ASIA (EX. NEAR EAST),578,30
+315,Curran Holman,Aizwal,Turks & Caicos Is,LATIN AMER. & CARIB,577,26
+84,Matthew Yates,Cañete,Sri Lanka,ASIA (EX. NEAR EAST),576,27
+175,Uriah Hartman,Patos,Denmark,WESTERN EUROPE,576,29
+80,Emmanuel Fernandez,Meerle,Slovenia,EASTERN EUROPE,576,28
+229,Raymond Norton,Idaho Falls,French Polynesia,OCEANIA,576,26
+390,Travis Manning,Dresden,"Bahamas, The",LATIN AMER. & CARIB,575,26
+360,Declan Orr,San Fratello,Turkmenistan,C.W. OF IND. STATES,574,27
+394,Lucian Watkins,Carunchio,Iraq,NEAR EAST,574,27
+53,Jesse Lindsey,Peterborough,Western Sahara,NORTHERN AFRICA,572,28
+180,Stewart Emerson,Omaha,Spain,WESTERN EUROPE,572,28
+104,Lyle Valenzuela,Barnstaple,Anguilla,LATIN AMER. & CARIB,572,24
+43,Harper Fernandez,Aurora,Togo,SUB-SAHARAN AFRICA,571,26
+137,Reuben Alford,Kasur,Jersey,WESTERN EUROPE,569,30
+286,Reese Kidd,Marbaix,Tunisia,NORTHERN AFRICA,568,30
+85,Declan Blackburn,Kisi,Sudan,SUB-SAHARAN AFRICA,566,31
+91,Robert Lewis,Meux,Saint Lucia,LATIN AMER. & CARIB,566,28
+376,Palmer Pope,Loreto,Aruba,LATIN AMER. & CARIB,565,27
+268,Raja Maldonado,Uttarpara-Kotrung,Tunisia,NORTHERN AFRICA,564,24
+393,Evan Leach,Campbelltown,Georgia,C.W. OF IND. STATES,563,22
+2,Devin Herman,Portici,Croatia,EASTERN EUROPE,562,29
+294,Rudyard Bryan,Mont-Saint-Guibert,Mexico,LATIN AMER. & CARIB,562,27
+301,Keaton Hill,Pagazzano,Australia,OCEANIA,561,25
+58,Arthur Hinton,Castres,Estonia,BALTICS,561,26
+228,Kenneth Gross,Lake Cowichan,Togo,SUB-SAHARAN AFRICA,558,27
+102,Clinton Rivers,Mocoa,Albania,EASTERN EUROPE,556,26
+245,Wylie Boone,Hines Creek,Vanuatu,OCEANIA,556,26
+222,Amos Herrera,Franeker,Taiwan,ASIA (EX. NEAR EAST),554,26
+191,Lester Mccarthy,Barrie,Monaco,WESTERN EUROPE,554,23
+153,Peter Conley,Ollag�e,Equatorial Guinea,SUB-SAHARAN AFRICA,553,28
+48,Adam Dixon,Tomé,Reunion,SUB-SAHARAN AFRICA,550,30
+231,Rafael Morrow,Daussoulx,Trinidad & Tobago,LATIN AMER. & CARIB,548,27
+164,Dale Saunders,Coimbatore,Latvia,BALTICS,547,27
+56,Otto Beck,Landenne,Austria,WESTERN EUROPE,547,28
+290,Ray Mcgee,Belfast,Lesotho,SUB-SAHARAN AFRICA,546,22
+148,Fuller Gilbert,Oordegem,Comoros,SUB-SAHARAN AFRICA,545,28
+354,Timothy Black,Deline,Afghanistan,ASIA (EX. NEAR EAST),545,25
+62,Lee Landry,Falkensee,American Samoa,OCEANIA,542,26
+372,Leroy Welch,Louisville,Tuvalu,OCEANIA,541,30
+40,Hayden Mccormick,Heist-aan-Zee,Canada,NORTHERN AMERICA,541,31
+344,Ulysses England,Vergnies,Armenia,C.W. OF IND. STATES,540,28
+146,Cameron Figueroa,Blackwood,Cambodia,ASIA (EX. NEAR EAST),538,25
+49,Michael Lang,Lestizza,Hong Kong,ASIA (EX. NEAR EAST),538,21
+32,Coby Shannon,Bekasi,Mauritania,SUB-SAHARAN AFRICA,538,30
+293,Emery Farrell,Saint-L�,Albania,EASTERN EUROPE,537,29
+65,Callum Leach,Drayton Valley,Italy,WESTERN EUROPE,537,24
+86,Hasad Pittman,Castelvecchio Calvisio,Portugal,WESTERN EUROPE,537,27
+197,Chandler Randolph,Spruce Grove,China,ASIA (EX. NEAR EAST),537,22
+328,Prescott Mccall,Neerglabbeek,Montserrat,LATIN AMER. & CARIB,536,25
+178,Gregory Vaughan,Surendranagar,Comoros,SUB-SAHARAN AFRICA,534,25
+127,Omar Munoz,Bonnert,Ukraine,C.W. OF IND. STATES,532,22
+356,Axel Lowe,Meridian,San Marino,WESTERN EUROPE,532,27
+122,Chancellor Barry,Norrk�ping,Armenia,C.W. OF IND. STATES,532,23
+348,Deacon Haney,New Radnor,Mongolia,ASIA (EX. NEAR EAST),531,24
+170,Leroy House,Paranagu�,Yemen,NEAR EAST,530,25
+399,Philip Nolan,Cessnock,Seychelles,SUB-SAHARAN AFRICA,529,22
+377,Jermaine Townsend,Nasirabad,Guinea-Bissau,SUB-SAHARAN AFRICA,528,23
+76,Hiram Cook,Sirsa,Uruguay,LATIN AMER. & CARIB,528,25
+316,Reece Fuller,Vegreville,Zambia,SUB-SAHARAN AFRICA,527,26
+312,Ivor Rodgers,Bolshevo,Reunion,SUB-SAHARAN AFRICA,527,33
+270,Rigel Conrad,Maiolati Spontini,Aruba,LATIN AMER. & CARIB,526,24
+248,Merritt Wiggins,Monte Vidon Corrado,Cote d'Ivoire,SUB-SAHARAN AFRICA,524,25
+278,Slade Bradley,Inuvik,Papua New Guinea,OCEANIA,523,28
+16,Talon Blake,Cardedu,France,WESTERN EUROPE,522,26
+183,Neville Ortega,Columbus,Niger,SUB-SAHARAN AFRICA,522,24
+39,Jerome Tyson,Tolve,Malawi,SUB-SAHARAN AFRICA,520,24
+384,Abbot Hayes,Barranca,Gibraltar,WESTERN EUROPE,517,25
+82,Lars Rowe,Roccasicura,Gabon,SUB-SAHARAN AFRICA,516,26
+211,Ignatius Moses,Valkenburg aan de Geul,Hong Kong,ASIA (EX. NEAR EAST),513,27
+159,Griffith Christian,Gravilias,Sao Tome & Principe,SUB-SAHARAN AFRICA,513,22
+17,Demetrius Cardenas,Kulti-Barakar,Kiribati,OCEANIA,512,24
+98,Chaim Burke,Gladstone,Saint Helena,SUB-SAHARAN AFRICA,512,25
+110,Emerson English,Nankana Sahib,Bosnia & Herzegovina,EASTERN EUROPE,512,26
+306,Joseph Stanley,Cannalonga,Gibraltar,WESTERN EUROPE,511,23
+273,Nathan Waller,Warren,Saint Helena,SUB-SAHARAN AFRICA,510,29
+24,Todd Camacho,Worcester,United Kingdom,WESTERN EUROPE,510,25
+114,Luke Hardy,Bekegem,Bulgaria,EASTERN EUROPE,509,25
+167,Gavin Davis,Soacha,Equatorial Guinea,SUB-SAHARAN AFRICA,507,22
+118,Cruz Valencia,Victoria,Dominica,LATIN AMER. & CARIB,507,27
+302,Salvador Pena,Ede,French Polynesia,OCEANIA,505,20
+145,Camden House,Cles,Antigua & Barbuda,LATIN AMER. & CARIB,504,26
+361,Tyrone Caldwell,Grand Island,Faroe Islands,WESTERN EUROPE,502,24
+381,Zachery Bender,Valley East,Eritrea,SUB-SAHARAN AFRICA,500,18
+169,Bert Delgado,Birmingham,Bulgaria,EASTERN EUROPE,498,23
+309,George Montoya,San Cesario di Lecce,Kuwait,NEAR EAST,497,22
+67,Melvin Hurst,Austin,"Gambia, The",SUB-SAHARAN AFRICA,497,23
+165,Caleb Booker,Petr�polis,Morocco,NORTHERN AFRICA,497,25
+329,Charles Clark,Solapur,Czech Republic,EASTERN EUROPE,494,21
+234,Price Rutledge,Baili�vre,Norway,WESTERN EUROPE,493,24
+365,Curran Vaughan,Camrose,Paraguay,LATIN AMER. & CARIB,493,29
+143,Galvin Hodges,Phoenix,Guatemala,LATIN AMER. & CARIB,491,20
+364,Wayne Riley,Priero,Kuwait,NEAR EAST,491,25
+61,Kato Price,Tournefeuille,Australia,OCEANIA,490,25
+142,Dante Pruitt,Banjar,Chad,SUB-SAHARAN AFRICA,489,24
+322,Dorian Thompson,Geraldton-Greenough,Portugal,WESTERN EUROPE,489,30
+255,Blaze Shaw,Gatchina,Israel,NEAR EAST,489,24
+96,Nathaniel Goff,Norfolk,Algeria,NORTHERN AFRICA,487,22
+223,Lawrence Good,Oostkerke,Zimbabwe,SUB-SAHARAN AFRICA,486,28
+194,Thor Munoz,Swan Hills,Malaysia,ASIA (EX. NEAR EAST),485,27
+100,Drew Keith,Hattiesburg,Isle of Man,WESTERN EUROPE,485,22
+383,Harrison Rosales,Houston,Belarus,C.W. OF IND. STATES,485,31
+241,Tyrone Bird,Russell,Turkmenistan,C.W. OF IND. STATES,483,23
+163,Darius Bradshaw,Putaendo,Ethiopia,SUB-SAHARAN AFRICA,483,28
+87,Tate Dickson,Moxhe,Saudi Arabia,NEAR EAST,482,25
+327,Valentine Livingston,Kolhapur,Russia,C.W. OF IND. STATES,481,22
+79,Keefe York,Grangemouth,United States,NORTHERN AMERICA,481,27
+264,Judah Barlow,Villers-la-Bonne-Eau,Lithuania,BALTICS,481,23
+280,Benedict Buck,Schoonaarde,India,ASIA (EX. NEAR EAST),480,22
+121,Perry Ochoa,Chennai,Montserrat,LATIN AMER. & CARIB,479,22
+66,Driscoll Mcgee,West Vancouver,Anguilla,LATIN AMER. & CARIB,479,21
+44,Vladimir Parks,Casper,Mali,SUB-SAHARAN AFRICA,478,20
+282,Carter Goodman,Arviat,Morocco,NORTHERN AFRICA,478,20
+276,Nissim Casey,Rotorua,Zimbabwe,SUB-SAHARAN AFRICA,478,27
+263,Mohammad Mcintyre,Trujillo,Chad,SUB-SAHARAN AFRICA,477,21
+29,Melvin Lambert,Mardan,Saint Lucia,LATIN AMER. & CARIB,477,25
+374,Arden Noble,Wimmertingen,Mauritania,SUB-SAHARAN AFRICA,476,25
+151,Joel Moss,Subiaco,Uruguay,LATIN AMER. & CARIB,475,26
+363,Fritz Ray,Siddi,Costa Rica,LATIN AMER. & CARIB,475,29
+74,Lance Luna,Lisieux,Tunisia,NORTHERN AFRICA,474,26
+345,Victor Zamora,Oelegem,Zambia,SUB-SAHARAN AFRICA,472,25
+326,Chaim Wooten,Castelluccio Inferiore,"Korea, South",ASIA (EX. NEAR EAST),472,28
+75,Quamar Richmond,Worcester,Australia,OCEANIA,471,22
+105,Garth Russell,Bettiah,Fiji,OCEANIA,470,23
+349,Basil Poole,Cuccaro Vetere,Seychelles,SUB-SAHARAN AFRICA,470,24
+369,Davis Hartman,Barra do Corda,Malaysia,ASIA (EX. NEAR EAST),469,23
+253,Brian Wiggins,Curarrehue,Haiti,LATIN AMER. & CARIB,467,21
+173,Fitzgerald Vargas,Rijkevorsel,"Gambia, The",SUB-SAHARAN AFRICA,466,25
+257,Valentine Bolton,Chimbote,Liberia,SUB-SAHARAN AFRICA,466,21
+331,Xander Joyner,Salisbury,Sudan,SUB-SAHARAN AFRICA,465,22
+320,Barclay Dyer,Sint-Pieters-Leeuw,Fiji,OCEANIA,465,23
+371,Clinton Parks,Blue Mountains,San Marino,WESTERN EUROPE,463,23
+72,Axel Carson,Sant'Egidio alla Vibrata,New Zealand,OCEANIA,462,20
+352,Alan Chang,Troitsk,American Samoa,OCEANIA,461,19
+22,Cameron Sexton,Kaluga,Saint Vincent and the Grenadines,LATIN AMER. & CARIB,459,21
+12,Kennan Arnold,Santa Cesarea Terme,Lebanon,NEAR EAST,455,26
+216,Zane Berry,Abergavenny,Uganda,SUB-SAHARAN AFRICA,455,20
+251,Tyrone Thomas,Monghidoro,Samoa,OCEANIA,455,29
+161,Noble Hayes,Tsiigehtchic,Uganda,SUB-SAHARAN AFRICA,455,21
+300,Joseph Trujillo,Kerkhove,Cameroon,SUB-SAHARAN AFRICA,452,21
+333,Walker Ballard,Piovene Rocchette,Bulgaria,EASTERN EUROPE,452,25
+250,Brent Langley,Atlanta,Netherlands,WESTERN EUROPE,450,24
+37,Trevor Ewing,Den Helder,Turks & Caicos Is,LATIN AMER. & CARIB,448,24
+73,Samson Lawson,Quenast,Libya,NORTHERN AFRICA,448,21
+141,Jesse Franks,Allentown,Virgin Islands,LATIN AMER. & CARIB,447,24
+64,Preston Salazar,Tübingen,Guadeloupe,LATIN AMER. & CARIB,446,24
+205,Melvin Harper,College,Martinique,LATIN AMER. & CARIB,444,18
+303,Bradley Le,Rueglio,"Congo, Dem. Rep.",SUB-SAHARAN AFRICA,443,25
+221,Plato Garcia,Pointe-du-Lac,Slovenia,EASTERN EUROPE,441,25
+157,Ali Wilkerson,Pirmasens,Senegal,SUB-SAHARAN AFRICA,440,21
+150,Grant Burgess,Stratford-upon-Avon,Burkina Faso,SUB-SAHARAN AFRICA,440,21
+136,Baxter Bray,La Matap�dia,Sao Tome & Principe,SUB-SAHARAN AFRICA,439,21
+252,Valentine Morrow,Guarapuava,Ukraine,C.W. OF IND. STATES,438,17
+4,Peter Fry,Oudegem,Liberia,SUB-SAHARAN AFRICA,437,22
+266,Yardley William,Akola,Sri Lanka,ASIA (EX. NEAR EAST),436,22
+92,Orson Tyson,Bhavnagar,Solomon Islands,OCEANIA,436,18
+217,Ferdinand Hubbard,Retford,Albania,EASTERN EUROPE,435,16
+41,Malik Wyatt,Mocoa,Chile,LATIN AMER. & CARIB,432,28
+299,Knox Vinson,Bon Accord,Honduras,LATIN AMER. & CARIB,432,20
+55,Price Buchanan,Barra do Corda,Ethiopia,SUB-SAHARAN AFRICA,428,24
+281,Reese Drake,Coquitlam,"Micronesia, Fed. St.",OCEANIA,428,15
+177,Lyle Dunn,Kelkheim,Malawi,SUB-SAHARAN AFRICA,428,22
+11,Edan Wells,Lille,Panama,LATIN AMER. & CARIB,427,24
+336,Silas Reeves,Rixensart,Brazil,LATIN AMER. & CARIB,426,23
+94,Theodore Rowland,Gignod,Moldova,C.W. OF IND. STATES,423,21
+297,Edan Scott,Mascalucia,Puerto Rico,LATIN AMER. & CARIB,421,22
+225,Callum Payne,Bad V�slau,Zimbabwe,SUB-SAHARAN AFRICA,418,20
+23,Hayes Pitts,Kayseri,Belgium,WESTERN EUROPE,416,24
+200,Declan Harmon,Sint-Denijs,Chad,SUB-SAHARAN AFRICA,415,22
+304,Stone Giles,Didim,Colombia,LATIN AMER. & CARIB,414,23
+138,Dante Mcneil,Karachi,Djibouti,SUB-SAHARAN AFRICA,413,24
+206,Joseph Clayton,Friedrichsdorf,Fiji,OCEANIA,410,20
+395,Howard Vargas,Pangkalpinang,"Bahamas, The",LATIN AMER. & CARIB,406,21
+388,Victor Albert,Branchon,Canada,NORTHERN AMERICA,406,19
+292,Solomon Burks,Noisy-le-Grand,Kuwait,NEAR EAST,404,23
+5,Guy Ball,Charleville-Mézières,Togo,SUB-SAHARAN AFRICA,404,23
+220,Tyrone Oneill,St. John's,Egypt,NORTHERN AFRICA,401,19
+129,Rooney Knowles,Gistel,Guyana,LATIN AMER. & CARIB,399,19
+224,Jeremy Obrien,Vaux-lez-Rosieres,Afghanistan,ASIA (EX. NEAR EAST),398,23
+272,Sylvester Valenzuela,Cavallino,Fiji,OCEANIA,396,22
+63,Daniel Mays,Lauro de Freitas,Turks & Caicos Is,LATIN AMER. & CARIB,395,24
+357,Quentin Kidd,Bedford,Afghanistan,ASIA (EX. NEAR EAST),392,23
+20,Keith Pittman,Caldera,Afghanistan,ASIA (EX. NEAR EAST),392,20
+78,Jerry Gallegos,Gießen,Togo,SUB-SAHARAN AFRICA,391,18
+34,Lev Morales,San Vicente de Cañete,Comoros,SUB-SAHARAN AFRICA,391,19
+147,Addison Mendoza,Grezzana,Lithuania,BALTICS,390,20
+199,Kennan Graves,M�dling,Ghana,SUB-SAHARAN AFRICA,388,20
+355,Wade Romero,Smolensk,United States,NORTHERN AMERICA,384,20
+214,Hector Shannon,Oudergem,Panama,LATIN AMER. & CARIB,384,17
+353,Ashton Boyle,Neunkirchen,Malta,WESTERN EUROPE,383,21
+88,Beck Wiggins,Jacobabad,Barbados,LATIN AMER. & CARIB,381,19
+210,Guy Compton,Sorbo Serpico,Jersey,WESTERN EUROPE,381,25
+59,Wing Dodson,Torquay,Dominican Republic,LATIN AMER. & CARIB,380,19
+9,Travis Dickerson,Korbach,Puerto Rico,LATIN AMER. & CARIB,378,21
+347,Brody Dunlap,Girifalco,Lesotho,SUB-SAHARAN AFRICA,377,20
+337,Hedley Harmon,Herenthout,Qatar,NEAR EAST,375,23
+33,Solomon Benson,Kelso,Belize,LATIN AMER. & CARIB,374,18
+130,Armand Mcdowell,Fuenlabrada,China,ASIA (EX. NEAR EAST),374,17
+283,Wesley Cook,Dalkeith,Tajikistan,C.W. OF IND. STATES,371,22
+213,Evan Kline,Grand-Hallet,Martinique,LATIN AMER. & CARIB,369,19
+168,Ulysses Mack,Salem,Chad,SUB-SAHARAN AFRICA,368,22
+227,Brett Page,Ulyanovsk,Iraq,NEAR EAST,367,23
+237,Linus Fisher,Preore,Lebanon,NEAR EAST,367,21
+209,Hiram Dunlap,Moncrivello,Kuwait,NEAR EAST,367,20
+10,Orlando Stone,Tourinnes-Saint-Lambert,New Zealand,OCEANIA,366,22
+277,Kirk Morton,San Martino in Badia/St. Martin in Thurn,Colombia,LATIN AMER. & CARIB,365,17
+14,Jasper Miller,Brighton,Guinea,SUB-SAHARAN AFRICA,362,18
+367,Caleb Tate,Riosucio,Liechtenstein,WESTERN EUROPE,362,18
+120,Gil Frye,Genappe,Malawi,SUB-SAHARAN AFRICA,361,22
+99,Andrew Mcgee,Butte,Saint Lucia,LATIN AMER. & CARIB,361,18
+310,Preston Nunez,Anseong,Ghana,SUB-SAHARAN AFRICA,361,22
+208,Avram Hughes,Stene,Thailand,ASIA (EX. NEAR EAST),359,21
+190,Scott Estrada,Feira de Santana,Ghana,SUB-SAHARAN AFRICA,358,21
+218,Brady Cannon,Dunkerque,Cyprus,NEAR EAST,358,21
+68,Kasper Morse,Campinas,French Guiana,LATIN AMER. & CARIB,355,19
+359,Hedley Dodson,Saint-Mard,Belgium,WESTERN EUROPE,353,20
+25,Seth Hancock,Ipatinga,Togo,SUB-SAHARAN AFRICA,351,15
+307,Aidan Orr,Kircudbright,Zambia,SUB-SAHARAN AFRICA,350,18
+149,Daniel Bridges,Rajkot,Uzbekistan,C.W. OF IND. STATES,349,22
+144,Brendan Herring,Tarcento,Cape Verde,SUB-SAHARAN AFRICA,345,16
+90,Xanthus Brewer,Talca,Swaziland,SUB-SAHARAN AFRICA,341,19
+26,Blaze Obrien,Cannes,Papua New Guinea,OCEANIA,340,18
+400,Carter Burke,Banjarmasin,Namibia,SUB-SAHARAN AFRICA,337,16
+133,Orlando Pickett,San Francisco,Syria,NEAR EAST,336,17
+95,Lance Mcpherson,North Cowichan,Switzerland,WESTERN EUROPE,333,17
+335,Brody Kent,Mardan,Marshall Islands,OCEANIA,323,18
+174,Vladimir Cain,Halkirk,South Africa,SUB-SAHARAN AFRICA,322,19
+156,Brandon Gomez,Bourges,Algeria,NORTHERN AFRICA,322,20
+113,Hu Simpson,Kemzeke,Ukraine,C.W. OF IND. STATES,319,15
+279,Tiger Barton,Ipswich,Cambodia,ASIA (EX. NEAR EAST),312,18
+387,Nero Mitchell,LaSalle,Finland,WESTERN EUROPE,312,19
+38,Mark Lucas,Nieuwkapelle,Serbia,EASTERN EUROPE,311,17
+385,Ulric Abbott,Castel San Niccol�,Greece,WESTERN EUROPE,309,18
+57,Ferris Stewart,Montefalcone nel Sannio,"Congo, Dem. Rep.",SUB-SAHARAN AFRICA,308,14
+235,James Berger,Chennai,Saint Kitts & Nevis,LATIN AMER. & CARIB,299,21
+338,Wyatt Dyer,Jeju,Azerbaijan,C.W. OF IND. STATES,299,21
+6,Vincent Parsons,Henderson,Kenya,SUB-SAHARAN AFRICA,298,19
+350,Tad Pace,Sherbrooke,France,WESTERN EUROPE,295,17
+185,Sawyer Harrington,New Quay,Maldives,ASIA (EX. NEAR EAST),290,15
+126,Aidan Bowers,R�ves,Anguilla,LATIN AMER. & CARIB,289,15
+28,August Perez,Amstelveen,Canada,NORTHERN AMERICA,281,15
+258,Logan Farrell,Pangnirtung,Pakistan,ASIA (EX. NEAR EAST),280,23
+325,Arthur Benjamin,Miramichi,Oman,NEAR EAST,266,17
+182,Davis Blackburn,Sluis,Thailand,ASIA (EX. NEAR EAST),258,16
+289,Clarke Hensley,Castello di Godego,Gibraltar,WESTERN EUROPE,249,16
+171,Hunter Hebert,Kamyzyak,Uruguay,LATIN AMER. & CARIB,191,14
