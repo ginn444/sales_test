@@ -22,6 +22,10 @@ Build a Power BI Dashboard while demonstrating how to build data pipelines.
 - Orchestration
     - Not needed for this project, but we do use Databricks and Prefect.
 
+## 🏗️ Architecture Note
+
+In production this would map to PySpark tables in Databricks with Unity Catalog; here I simulate it locally with Polars + DuckDB.
+
 
 ## 🛠️ Setup Instructions
 
