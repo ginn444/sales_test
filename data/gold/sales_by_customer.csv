@@ -67,63 +67,63 @@ CustomerId,CustomerName,City,CountryName,Region,TotalQuantity,DistinctOrders
 8,Cruz Gill,Morinville,Sweden,WESTERN EUROPE,667,31
 295,Slade Myers,Machelen,Madagascar,SUB-SAHARAN AFRICA,664,28
 203,Ferris Hardy,Westmalle,Yemen,NEAR EAST,664,31
-285,Hiram Acevedo,Naninne,Venezuela,LATIN AMER. & CARIB,663,30
 308,Tanek Higgins,Trollh�ttan,New Zealand,OCEANIA,663,26
+285,Hiram Acevedo,Naninne,Venezuela,LATIN AMER. & CARIB,663,30
 60,Aristotle Gross,Berbroek,Slovakia,EASTERN EUROPE,662,35
-321,Oren Zamora,Zaria,Nicaragua,LATIN AMER. & CARIB,658,28
 50,Jeremy Rowland,San Rafael,Canada,NORTHERN AMERICA,658,30
-103,Malachi Phillips,Neuss,Spain,WESTERN EUROPE,652,34
+321,Oren Zamora,Zaria,Nicaragua,LATIN AMER. & CARIB,658,28
 370,Keane Rich,Barrie,Kyrgyzstan,C.W. OF IND. STATES,652,25
+103,Malachi Phillips,Neuss,Spain,WESTERN EUROPE,652,34
 323,Tyler Odonnell,Wieze,Burkina Faso,SUB-SAHARAN AFRICA,651,31
-128,Warren Mcgee,R�o Bueno,Anguilla,LATIN AMER. & CARIB,651,23
 21,Mohammad Kane,Raigarh,Uruguay,LATIN AMER. & CARIB,651,26
+128,Warren Mcgee,R�o Bueno,Anguilla,LATIN AMER. & CARIB,651,23
 207,Caesar Gibson,Oldenburg,Morocco,NORTHERN AFRICA,650,30
 187,Emmanuel Sosa,Skardu,China,ASIA (EX. NEAR EAST),649,28
 117,August Ramirez,Pessac,Saint Vincent and the Grenadines,LATIN AMER. & CARIB,649,28
 351,Burton Key,Aubagne,Papua New Guinea,OCEANIA,648,24
-81,Chancellor Bradford,Vandoeuvre-lès-Nancy,Malaysia,ASIA (EX. NEAR EAST),647,40
 305,Hu Pitts,Birmingham,Nauru,OCEANIA,647,25
+81,Chancellor Bradford,Vandoeuvre-lès-Nancy,Malaysia,ASIA (EX. NEAR EAST),647,40
 152,Cooper Rowland,Pettoranello del Molise,Ukraine,C.W. OF IND. STATES,645,29
+140,Branden Mullen,Trento,Philippines,ASIA (EX. NEAR EAST),644,24
 269,Ezra Savage,Santa Marina,Maldives,ASIA (EX. NEAR EAST),644,31
 242,Herrod Moore,Gentbrugge,United Kingdom,WESTERN EUROPE,644,28
-140,Branden Mullen,Trento,Philippines,ASIA (EX. NEAR EAST),644,24
 332,Kamal Blevins,Meerdonk,Cayman Islands,LATIN AMER. & CARIB,642,34
 271,Devin Chen,Seevetal,Nepal,ASIA (EX. NEAR EAST),642,29
 366,Reece Molina,Redlands,South Africa,SUB-SAHARAN AFRICA,642,22
-391,Kyle Gillespie,Yurzhnouralsk,Nepal,ASIA (EX. NEAR EAST),641,28
 172,Rudyard Gay,Sombreffe,Libya,NORTHERN AFRICA,641,28
-123,Michael Harrington,Edmundston,Djibouti,SUB-SAHARAN AFRICA,640,28
+391,Kyle Gillespie,Yurzhnouralsk,Nepal,ASIA (EX. NEAR EAST),641,28
 46,Kelly Lott,Akşehir,Somalia,SUB-SAHARAN AFRICA,640,33
+123,Michael Harrington,Edmundston,Djibouti,SUB-SAHARAN AFRICA,640,28
+260,Erich Noble,Nizhny,Tonga,OCEANIA,637,33
 119,Stewart Cain,Maria,Azerbaijan,C.W. OF IND. STATES,637,29
 317,Joel Stone,Henderson,Tanzania,SUB-SAHARAN AFRICA,637,29
-260,Erich Noble,Nizhny,Tonga,OCEANIA,637,33
 202,Cadman Weeks,Karachev,British Virgin Is.,LATIN AMER. & CARIB,635,27
-116,Chandler Perkins,Pincher Creek,Georgia,C.W. OF IND. STATES,633,27
 340,Leo Moran,Owerri,Dominica,LATIN AMER. & CARIB,633,31
-262,Rafael Beasley,Santu Lussurgiu,Reunion,SUB-SAHARAN AFRICA,633,30
 192,Chandler Tyson,Arequipa,Iraq,NEAR EAST,633,30
+116,Chandler Perkins,Pincher Creek,Georgia,C.W. OF IND. STATES,633,27
+262,Rafael Beasley,Santu Lussurgiu,Reunion,SUB-SAHARAN AFRICA,633,30
 131,Neville Ferguson,Sibi,Wallis and Futuna,OCEANIA,632,30
 54,Myles Spence,Rochester,Solomon Islands,OCEANIA,631,24
 212,Leonard Lindsey,Balfour,Ireland,WESTERN EUROPE,631,31
-386,Ferdinand Campbell,Velsk,Kazakhstan,C.W. OF IND. STATES,628,22
 186,Elijah Jacobson,C�rdoba,Malawi,SUB-SAHARAN AFRICA,628,30
-339,Ignatius Hanson,Bientina,Senegal,SUB-SAHARAN AFRICA,626,27
+386,Ferdinand Campbell,Velsk,Kazakhstan,C.W. OF IND. STATES,628,22
 45,Peter Hubbard,Schore,Bolivia,LATIN AMER. & CARIB,626,31
-188,Gary Ruiz,Armungia,"Micronesia, Fed. St.",OCEANIA,626,27
+339,Ignatius Hanson,Bientina,Senegal,SUB-SAHARAN AFRICA,626,27
 77,Hilel Dodson,Serik,Spain,WESTERN EUROPE,626,28
+188,Gary Ruiz,Armungia,"Micronesia, Fed. St.",OCEANIA,626,27
 107,Jerry Hester,Santa Mar�a,China,ASIA (EX. NEAR EAST),625,31
 109,Slade Burton,Iqaluit,Sweden,WESTERN EUROPE,622,33
-179,Ryder Tyson,Roselies,Sri Lanka,ASIA (EX. NEAR EAST),622,27
 379,Chester Foster,Lambayeque,Guernsey,WESTERN EUROPE,622,27
+179,Ryder Tyson,Roselies,Sri Lanka,ASIA (EX. NEAR EAST),622,27
 226,Randall Valentine,Martello/Martell,China,ASIA (EX. NEAR EAST),620,29
 31,Martin Weiss,Norfolk County,Uzbekistan,C.W. OF IND. STATES,619,26
 239,Lucius Harvey,Butte,Papua New Guinea,OCEANIA,619,31
-201,Lucian Webster,Vieste,Norway,WESTERN EUROPE,614,24
 93,Jin Henry,Saint-Herblain,Antigua & Barbuda,LATIN AMER. & CARIB,614,27
+201,Lucian Webster,Vieste,Norway,WESTERN EUROPE,614,24
 238,Cain Shaffer,Strombeek-Bever,Uzbekistan,C.W. OF IND. STATES,613,26
 240,Kaseem Osborn,Bargagli,Hungary,EASTERN EUROPE,612,31
-259,Nathaniel Sampson,Camet�,Saint Kitts & Nevis,LATIN AMER. & CARIB,609,29
 244,Amir Gould,Zhukovka,Ecuador,LATIN AMER. & CARIB,609,28
+259,Nathaniel Sampson,Camet�,Saint Kitts & Nevis,LATIN AMER. & CARIB,609,29
 389,Eagan Carey,Palakkad,Saudi Arabia,NEAR EAST,608,27
 382,Salvador Greene,B�ziers,Panama,LATIN AMER. & CARIB,604,29
 342,Ryan Davenport,Cambridge,Norway,WESTERN EUROPE,603,30
@@ -132,15 +132,15 @@ CustomerId,CustomerName,City,CountryName,Region,TotalQuantity,DistinctOrders
 232,Brady Pierce,Coihaique,Mexico,LATIN AMER. & CARIB,599,27
 154,Nigel Case,Baasrode,Chile,LATIN AMER. & CARIB,599,28
 134,Rooney Anderson,Kitchener,Cayman Islands,LATIN AMER. & CARIB,598,27
-196,Cade Preston,Uitbergen,Central African Rep.,SUB-SAHARAN AFRICA,598,31
 83,Nathaniel Strong,Lago Ranco,Honduras,LATIN AMER. & CARIB,598,30
+196,Cade Preston,Uitbergen,Central African Rep.,SUB-SAHARAN AFRICA,598,31
 392,Wade Waters,Salamanca,Panama,LATIN AMER. & CARIB,597,21
 275,Rudyard Reynolds,Oliver,Ghana,SUB-SAHARAN AFRICA,597,31
 373,Hasad Burris,Mianwali,Sweden,WESTERN EUROPE,597,31
 198,Coby Mays,Adoni,Bosnia & Herzegovina,EASTERN EUROPE,596,27
 219,Samuel Harding,Fortaleza,Kyrgyzstan,C.W. OF IND. STATES,595,30
-398,Dorian Farmer,H_villers,Pakistan,ASIA (EX. NEAR EAST),594,27
 176,Flynn Briggs,Oldenburg,French Guiana,LATIN AMER. & CARIB,594,26
+398,Dorian Farmer,H_villers,Pakistan,ASIA (EX. NEAR EAST),594,27
 124,Hilel Sparks,Gavorrano,Western Sahara,NORTHERN AFRICA,593,28
 70,Kieran Perez,Timaru,Taiwan,ASIA (EX. NEAR EAST),592,26
 346,Nasim Collins,Minto,Seychelles,SUB-SAHARAN AFRICA,592,28
@@ -156,16 +156,16 @@ CustomerId,CustomerName,City,CountryName,Region,TotalQuantity,DistinctOrders
 254,Aristotle Coffey,Cassaro,Cape Verde,SUB-SAHARAN AFRICA,581,31
 193,Neil Pruitt,Termeno sulla strada del vino/Tramin an der Weinstrasse,Indonesia,ASIA (EX. NEAR EAST),578,30
 315,Curran Holman,Aizwal,Turks & Caicos Is,LATIN AMER. & CARIB,577,26
-229,Raymond Norton,Idaho Falls,French Polynesia,OCEANIA,576,26
-80,Emmanuel Fernandez,Meerle,Slovenia,EASTERN EUROPE,576,28
 84,Matthew Yates,Cañete,Sri Lanka,ASIA (EX. NEAR EAST),576,27
+80,Emmanuel Fernandez,Meerle,Slovenia,EASTERN EUROPE,576,28
 175,Uriah Hartman,Patos,Denmark,WESTERN EUROPE,576,29
+229,Raymond Norton,Idaho Falls,French Polynesia,OCEANIA,576,26
 390,Travis Manning,Dresden,"Bahamas, The",LATIN AMER. & CARIB,575,26
-360,Declan Orr,San Fratello,Turkmenistan,C.W. OF IND. STATES,574,27
 394,Lucian Watkins,Carunchio,Iraq,NEAR EAST,574,27
-104,Lyle Valenzuela,Barnstaple,Anguilla,LATIN AMER. & CARIB,572,24
-53,Jesse Lindsey,Peterborough,Western Sahara,NORTHERN AFRICA,572,28
+360,Declan Orr,San Fratello,Turkmenistan,C.W. OF IND. STATES,574,27
 180,Stewart Emerson,Omaha,Spain,WESTERN EUROPE,572,28
+53,Jesse Lindsey,Peterborough,Western Sahara,NORTHERN AFRICA,572,28
+104,Lyle Valenzuela,Barnstaple,Anguilla,LATIN AMER. & CARIB,572,24
 43,Harper Fernandez,Aurora,Togo,SUB-SAHARAN AFRICA,571,26
 137,Reuben Alford,Kasur,Jersey,WESTERN EUROPE,569,30
 286,Reese Kidd,Marbaix,Tunisia,NORTHERN AFRICA,568,30
@@ -174,8 +174,8 @@ CustomerId,CustomerName,City,CountryName,Region,TotalQuantity,DistinctOrders
 376,Palmer Pope,Loreto,Aruba,LATIN AMER. & CARIB,565,27
 268,Raja Maldonado,Uttarpara-Kotrung,Tunisia,NORTHERN AFRICA,564,24
 393,Evan Leach,Campbelltown,Georgia,C.W. OF IND. STATES,563,22
-294,Rudyard Bryan,Mont-Saint-Guibert,Mexico,LATIN AMER. & CARIB,562,27
 2,Devin Herman,Portici,Croatia,EASTERN EUROPE,562,29
+294,Rudyard Bryan,Mont-Saint-Guibert,Mexico,LATIN AMER. & CARIB,562,27
 301,Keaton Hill,Pagazzano,Australia,OCEANIA,561,25
 58,Arthur Hinton,Castres,Estonia,BALTICS,561,26
 228,Kenneth Gross,Lake Cowichan,Togo,SUB-SAHARAN AFRICA,558,27
@@ -186,32 +186,32 @@ CustomerId,CustomerName,City,CountryName,Region,TotalQuantity,DistinctOrders
 153,Peter Conley,Ollag�e,Equatorial Guinea,SUB-SAHARAN AFRICA,553,28
 48,Adam Dixon,Tomé,Reunion,SUB-SAHARAN AFRICA,550,30
 231,Rafael Morrow,Daussoulx,Trinidad & Tobago,LATIN AMER. & CARIB,548,27
-164,Dale Saunders,Coimbatore,Latvia,BALTICS,547,27
 56,Otto Beck,Landenne,Austria,WESTERN EUROPE,547,28
+164,Dale Saunders,Coimbatore,Latvia,BALTICS,547,27
 290,Ray Mcgee,Belfast,Lesotho,SUB-SAHARAN AFRICA,546,22
 148,Fuller Gilbert,Oordegem,Comoros,SUB-SAHARAN AFRICA,545,28
 354,Timothy Black,Deline,Afghanistan,ASIA (EX. NEAR EAST),545,25
 62,Lee Landry,Falkensee,American Samoa,OCEANIA,542,26
-40,Hayden Mccormick,Heist-aan-Zee,Canada,NORTHERN AMERICA,541,31
 372,Leroy Welch,Louisville,Tuvalu,OCEANIA,541,30
+40,Hayden Mccormick,Heist-aan-Zee,Canada,NORTHERN AMERICA,541,31
 344,Ulysses England,Vergnies,Armenia,C.W. OF IND. STATES,540,28
-146,Cameron Figueroa,Blackwood,Cambodia,ASIA (EX. NEAR EAST),538,25
 32,Coby Shannon,Bekasi,Mauritania,SUB-SAHARAN AFRICA,538,30
+146,Cameron Figueroa,Blackwood,Cambodia,ASIA (EX. NEAR EAST),538,25
 49,Michael Lang,Lestizza,Hong Kong,ASIA (EX. NEAR EAST),538,21
-293,Emery Farrell,Saint-L�,Albania,EASTERN EUROPE,537,29
-197,Chandler Randolph,Spruce Grove,China,ASIA (EX. NEAR EAST),537,22
-86,Hasad Pittman,Castelvecchio Calvisio,Portugal,WESTERN EUROPE,537,27
 65,Callum Leach,Drayton Valley,Italy,WESTERN EUROPE,537,24
+86,Hasad Pittman,Castelvecchio Calvisio,Portugal,WESTERN EUROPE,537,27
+197,Chandler Randolph,Spruce Grove,China,ASIA (EX. NEAR EAST),537,22
+293,Emery Farrell,Saint-L�,Albania,EASTERN EUROPE,537,29
 328,Prescott Mccall,Neerglabbeek,Montserrat,LATIN AMER. & CARIB,536,25
 178,Gregory Vaughan,Surendranagar,Comoros,SUB-SAHARAN AFRICA,534,25
 356,Axel Lowe,Meridian,San Marino,WESTERN EUROPE,532,27
-122,Chancellor Barry,Norrk�ping,Armenia,C.W. OF IND. STATES,532,23
 127,Omar Munoz,Bonnert,Ukraine,C.W. OF IND. STATES,532,22
+122,Chancellor Barry,Norrk�ping,Armenia,C.W. OF IND. STATES,532,23
 348,Deacon Haney,New Radnor,Mongolia,ASIA (EX. NEAR EAST),531,24
 170,Leroy House,Paranagu�,Yemen,NEAR EAST,530,25
 399,Philip Nolan,Cessnock,Seychelles,SUB-SAHARAN AFRICA,529,22
-76,Hiram Cook,Sirsa,Uruguay,LATIN AMER. & CARIB,528,25
 377,Jermaine Townsend,Nasirabad,Guinea-Bissau,SUB-SAHARAN AFRICA,528,23
+76,Hiram Cook,Sirsa,Uruguay,LATIN AMER. & CARIB,528,25
 316,Reece Fuller,Vegreville,Zambia,SUB-SAHARAN AFRICA,527,26
 312,Ivor Rodgers,Bolshevo,Reunion,SUB-SAHARAN AFRICA,527,33
 270,Rigel Conrad,Maiolati Spontini,Aruba,LATIN AMER. & CARIB,526,24
@@ -224,51 +224,51 @@ CustomerId,CustomerName,City,CountryName,Region,TotalQuantity,DistinctOrders
 82,Lars Rowe,Roccasicura,Gabon,SUB-SAHARAN AFRICA,516,26
 211,Ignatius Moses,Valkenburg aan de Geul,Hong Kong,ASIA (EX. NEAR EAST),513,27
 159,Griffith Christian,Gravilias,Sao Tome & Principe,SUB-SAHARAN AFRICA,513,22
+17,Demetrius Cardenas,Kulti-Barakar,Kiribati,OCEANIA,512,24
 98,Chaim Burke,Gladstone,Saint Helena,SUB-SAHARAN AFRICA,512,25
 110,Emerson English,Nankana Sahib,Bosnia & Herzegovina,EASTERN EUROPE,512,26
-17,Demetrius Cardenas,Kulti-Barakar,Kiribati,OCEANIA,512,24
 306,Joseph Stanley,Cannalonga,Gibraltar,WESTERN EUROPE,511,23
 273,Nathan Waller,Warren,Saint Helena,SUB-SAHARAN AFRICA,510,29
 24,Todd Camacho,Worcester,United Kingdom,WESTERN EUROPE,510,25
 114,Luke Hardy,Bekegem,Bulgaria,EASTERN EUROPE,509,25
-118,Cruz Valencia,Victoria,Dominica,LATIN AMER. & CARIB,507,27
 167,Gavin Davis,Soacha,Equatorial Guinea,SUB-SAHARAN AFRICA,507,22
+118,Cruz Valencia,Victoria,Dominica,LATIN AMER. & CARIB,507,27
 302,Salvador Pena,Ede,French Polynesia,OCEANIA,505,20
 145,Camden House,Cles,Antigua & Barbuda,LATIN AMER. & CARIB,504,26
 361,Tyrone Caldwell,Grand Island,Faroe Islands,WESTERN EUROPE,502,24
 381,Zachery Bender,Valley East,Eritrea,SUB-SAHARAN AFRICA,500,18
 169,Bert Delgado,Birmingham,Bulgaria,EASTERN EUROPE,498,23
-309,George Montoya,San Cesario di Lecce,Kuwait,NEAR EAST,497,22
 67,Melvin Hurst,Austin,"Gambia, The",SUB-SAHARAN AFRICA,497,23
+309,George Montoya,San Cesario di Lecce,Kuwait,NEAR EAST,497,22
 165,Caleb Booker,Petr�polis,Morocco,NORTHERN AFRICA,497,25
 329,Charles Clark,Solapur,Czech Republic,EASTERN EUROPE,494,21
 234,Price Rutledge,Baili�vre,Norway,WESTERN EUROPE,493,24
 365,Curran Vaughan,Camrose,Paraguay,LATIN AMER. & CARIB,493,29
-364,Wayne Riley,Priero,Kuwait,NEAR EAST,491,25
 143,Galvin Hodges,Phoenix,Guatemala,LATIN AMER. & CARIB,491,20
+364,Wayne Riley,Priero,Kuwait,NEAR EAST,491,25
 61,Kato Price,Tournefeuille,Australia,OCEANIA,490,25
 142,Dante Pruitt,Banjar,Chad,SUB-SAHARAN AFRICA,489,24
 255,Blaze Shaw,Gatchina,Israel,NEAR EAST,489,24
 322,Dorian Thompson,Geraldton-Greenough,Portugal,WESTERN EUROPE,489,30
 96,Nathaniel Goff,Norfolk,Algeria,NORTHERN AFRICA,487,22
 223,Lawrence Good,Oostkerke,Zimbabwe,SUB-SAHARAN AFRICA,486,28
-194,Thor Munoz,Swan Hills,Malaysia,ASIA (EX. NEAR EAST),485,27
 100,Drew Keith,Hattiesburg,Isle of Man,WESTERN EUROPE,485,22
 383,Harrison Rosales,Houston,Belarus,C.W. OF IND. STATES,485,31
+194,Thor Munoz,Swan Hills,Malaysia,ASIA (EX. NEAR EAST),485,27
 163,Darius Bradshaw,Putaendo,Ethiopia,SUB-SAHARAN AFRICA,483,28
 241,Tyrone Bird,Russell,Turkmenistan,C.W. OF IND. STATES,483,23
 87,Tate Dickson,Moxhe,Saudi Arabia,NEAR EAST,482,25
 79,Keefe York,Grangemouth,United States,NORTHERN AMERICA,481,27
-327,Valentine Livingston,Kolhapur,Russia,C.W. OF IND. STATES,481,22
 264,Judah Barlow,Villers-la-Bonne-Eau,Lithuania,BALTICS,481,23
+327,Valentine Livingston,Kolhapur,Russia,C.W. OF IND. STATES,481,22
 280,Benedict Buck,Schoonaarde,India,ASIA (EX. NEAR EAST),480,22
 121,Perry Ochoa,Chennai,Montserrat,LATIN AMER. & CARIB,479,22
 66,Driscoll Mcgee,West Vancouver,Anguilla,LATIN AMER. & CARIB,479,21
 44,Vladimir Parks,Casper,Mali,SUB-SAHARAN AFRICA,478,20
-282,Carter Goodman,Arviat,Morocco,NORTHERN AFRICA,478,20
 276,Nissim Casey,Rotorua,Zimbabwe,SUB-SAHARAN AFRICA,478,27
-29,Melvin Lambert,Mardan,Saint Lucia,LATIN AMER. & CARIB,477,25
+282,Carter Goodman,Arviat,Morocco,NORTHERN AFRICA,478,20
 263,Mohammad Mcintyre,Trujillo,Chad,SUB-SAHARAN AFRICA,477,21
+29,Melvin Lambert,Mardan,Saint Lucia,LATIN AMER. & CARIB,477,25
 374,Arden Noble,Wimmertingen,Mauritania,SUB-SAHARAN AFRICA,476,25
 151,Joel Moss,Subiaco,Uruguay,LATIN AMER. & CARIB,475,26
 363,Fritz Ray,Siddi,Costa Rica,LATIN AMER. & CARIB,475,29
@@ -288,12 +288,12 @@ CustomerId,CustomerName,City,CountryName,Region,TotalQuantity,DistinctOrders
 72,Axel Carson,Sant'Egidio alla Vibrata,New Zealand,OCEANIA,462,20
 352,Alan Chang,Troitsk,American Samoa,OCEANIA,461,19
 22,Cameron Sexton,Kaluga,Saint Vincent and the Grenadines,LATIN AMER. & CARIB,459,21
+251,Tyrone Thomas,Monghidoro,Samoa,OCEANIA,455,29
 161,Noble Hayes,Tsiigehtchic,Uganda,SUB-SAHARAN AFRICA,455,21
 216,Zane Berry,Abergavenny,Uganda,SUB-SAHARAN AFRICA,455,20
-251,Tyrone Thomas,Monghidoro,Samoa,OCEANIA,455,29
 12,Kennan Arnold,Santa Cesarea Terme,Lebanon,NEAR EAST,455,26
-333,Walker Ballard,Piovene Rocchette,Bulgaria,EASTERN EUROPE,452,25
 300,Joseph Trujillo,Kerkhove,Cameroon,SUB-SAHARAN AFRICA,452,21
+333,Walker Ballard,Piovene Rocchette,Bulgaria,EASTERN EUROPE,452,25
 250,Brent Langley,Atlanta,Netherlands,WESTERN EUROPE,450,24
 73,Samson Lawson,Quenast,Libya,NORTHERN AFRICA,448,21
 37,Trevor Ewing,Den Helder,Turks & Caicos Is,LATIN AMER. & CARIB,448,24
@@ -310,10 +310,10 @@ CustomerId,CustomerName,City,CountryName,Region,TotalQuantity,DistinctOrders
 266,Yardley William,Akola,Sri Lanka,ASIA (EX. NEAR EAST),436,22
 92,Orson Tyson,Bhavnagar,Solomon Islands,OCEANIA,436,18
 217,Ferdinand Hubbard,Retford,Albania,EASTERN EUROPE,435,16
-299,Knox Vinson,Bon Accord,Honduras,LATIN AMER. & CARIB,432,20
 41,Malik Wyatt,Mocoa,Chile,LATIN AMER. & CARIB,432,28
-177,Lyle Dunn,Kelkheim,Malawi,SUB-SAHARAN AFRICA,428,22
+299,Knox Vinson,Bon Accord,Honduras,LATIN AMER. & CARIB,432,20
 281,Reese Drake,Coquitlam,"Micronesia, Fed. St.",OCEANIA,428,15
+177,Lyle Dunn,Kelkheim,Malawi,SUB-SAHARAN AFRICA,428,22
 55,Price Buchanan,Barra do Corda,Ethiopia,SUB-SAHARAN AFRICA,428,24
 11,Edan Wells,Lille,Panama,LATIN AMER. & CARIB,427,24
 336,Silas Reeves,Rixensart,Brazil,LATIN AMER. & CARIB,426,23
@@ -325,8 +325,8 @@ CustomerId,CustomerName,City,CountryName,Region,TotalQuantity,DistinctOrders
 304,Stone Giles,Didim,Colombia,LATIN AMER. & CARIB,414,23
 138,Dante Mcneil,Karachi,Djibouti,SUB-SAHARAN AFRICA,413,24
 206,Joseph Clayton,Friedrichsdorf,Fiji,OCEANIA,410,20
-388,Victor Albert,Branchon,Canada,NORTHERN AMERICA,406,19
 395,Howard Vargas,Pangkalpinang,"Bahamas, The",LATIN AMER. & CARIB,406,21
+388,Victor Albert,Branchon,Canada,NORTHERN AMERICA,406,19
 292,Solomon Burks,Noisy-le-Grand,Kuwait,NEAR EAST,404,23
 5,Guy Ball,Charleville-Mézières,Togo,SUB-SAHARAN AFRICA,404,23
 220,Tyrone Oneill,St. John's,Egypt,NORTHERN AFRICA,401,19
@@ -334,8 +334,8 @@ CustomerId,CustomerName,City,CountryName,Region,TotalQuantity,DistinctOrders
 224,Jeremy Obrien,Vaux-lez-Rosieres,Afghanistan,ASIA (EX. NEAR EAST),398,23
 272,Sylvester Valenzuela,Cavallino,Fiji,OCEANIA,396,22
 63,Daniel Mays,Lauro de Freitas,Turks & Caicos Is,LATIN AMER. & CARIB,395,24
-20,Keith Pittman,Caldera,Afghanistan,ASIA (EX. NEAR EAST),392,20
 357,Quentin Kidd,Bedford,Afghanistan,ASIA (EX. NEAR EAST),392,23
+20,Keith Pittman,Caldera,Afghanistan,ASIA (EX. NEAR EAST),392,20
 78,Jerry Gallegos,Gießen,Togo,SUB-SAHARAN AFRICA,391,18
 34,Lev Morales,San Vicente de Cañete,Comoros,SUB-SAHARAN AFRICA,391,19
 147,Addison Mendoza,Grezzana,Lithuania,BALTICS,390,20
@@ -349,24 +349,24 @@ CustomerId,CustomerName,City,CountryName,Region,TotalQuantity,DistinctOrders
 9,Travis Dickerson,Korbach,Puerto Rico,LATIN AMER. & CARIB,378,21
 347,Brody Dunlap,Girifalco,Lesotho,SUB-SAHARAN AFRICA,377,20
 337,Hedley Harmon,Herenthout,Qatar,NEAR EAST,375,23
-33,Solomon Benson,Kelso,Belize,LATIN AMER. & CARIB,374,18
 130,Armand Mcdowell,Fuenlabrada,China,ASIA (EX. NEAR EAST),374,17
+33,Solomon Benson,Kelso,Belize,LATIN AMER. & CARIB,374,18
 283,Wesley Cook,Dalkeith,Tajikistan,C.W. OF IND. STATES,371,22
 213,Evan Kline,Grand-Hallet,Martinique,LATIN AMER. & CARIB,369,19
 168,Ulysses Mack,Salem,Chad,SUB-SAHARAN AFRICA,368,22
-209,Hiram Dunlap,Moncrivello,Kuwait,NEAR EAST,367,20
 227,Brett Page,Ulyanovsk,Iraq,NEAR EAST,367,23
+209,Hiram Dunlap,Moncrivello,Kuwait,NEAR EAST,367,20
 237,Linus Fisher,Preore,Lebanon,NEAR EAST,367,21
 10,Orlando Stone,Tourinnes-Saint-Lambert,New Zealand,OCEANIA,366,22
 277,Kirk Morton,San Martino in Badia/St. Martin in Thurn,Colombia,LATIN AMER. & CARIB,365,17
-367,Caleb Tate,Riosucio,Liechtenstein,WESTERN EUROPE,362,18
 14,Jasper Miller,Brighton,Guinea,SUB-SAHARAN AFRICA,362,18
-310,Preston Nunez,Anseong,Ghana,SUB-SAHARAN AFRICA,361,22
-99,Andrew Mcgee,Butte,Saint Lucia,LATIN AMER. & CARIB,361,18
+367,Caleb Tate,Riosucio,Liechtenstein,WESTERN EUROPE,362,18
 120,Gil Frye,Genappe,Malawi,SUB-SAHARAN AFRICA,361,22
+99,Andrew Mcgee,Butte,Saint Lucia,LATIN AMER. & CARIB,361,18
+310,Preston Nunez,Anseong,Ghana,SUB-SAHARAN AFRICA,361,22
 208,Avram Hughes,Stene,Thailand,ASIA (EX. NEAR EAST),359,21
-190,Scott Estrada,Feira de Santana,Ghana,SUB-SAHARAN AFRICA,358,21
 218,Brady Cannon,Dunkerque,Cyprus,NEAR EAST,358,21
+190,Scott Estrada,Feira de Santana,Ghana,SUB-SAHARAN AFRICA,358,21
 68,Kasper Morse,Campinas,French Guiana,LATIN AMER. & CARIB,355,19
 359,Hedley Dodson,Saint-Mard,Belgium,WESTERN EUROPE,353,20
 25,Seth Hancock,Ipatinga,Togo,SUB-SAHARAN AFRICA,351,15
@@ -387,8 +387,8 @@ CustomerId,CustomerName,City,CountryName,Region,TotalQuantity,DistinctOrders
 38,Mark Lucas,Nieuwkapelle,Serbia,EASTERN EUROPE,311,17
 385,Ulric Abbott,Castel San Niccol�,Greece,WESTERN EUROPE,309,18
 57,Ferris Stewart,Montefalcone nel Sannio,"Congo, Dem. Rep.",SUB-SAHARAN AFRICA,308,14
-235,James Berger,Chennai,Saint Kitts & Nevis,LATIN AMER. & CARIB,299,21
 338,Wyatt Dyer,Jeju,Azerbaijan,C.W. OF IND. STATES,299,21
+235,James Berger,Chennai,Saint Kitts & Nevis,LATIN AMER. & CARIB,299,21
 6,Vincent Parsons,Henderson,Kenya,SUB-SAHARAN AFRICA,298,19
 350,Tad Pace,Sherbrooke,France,WESTERN EUROPE,295,17
 185,Sawyer Harrington,New Quay,Maldives,ASIA (EX. NEAR EAST),290,15
